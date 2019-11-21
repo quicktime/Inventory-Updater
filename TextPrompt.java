@@ -11,8 +11,7 @@ import javax.swing.text.*;
  *  determine the visibility of the prompt.
  *
  *  The Font and foreground Color of the prompt will default to those properties
- *  of the parent text component. You are free to change the properties after
- *  class construction.
+ *  of the parent text component. 
  */
 @SuppressWarnings("serial")
 public class TextPrompt extends JLabel
